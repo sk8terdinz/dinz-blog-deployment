@@ -1,2 +1,2 @@
 # dinz-blog-deployment
-Final blog for production
+Web blog with Django for deployment
